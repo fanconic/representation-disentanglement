@@ -19,7 +19,7 @@ import skimage
 import skimage.io
 import skimage.transform
 import skimage.color
-from skimage.metrics import normalized_root_mse as compare_nrmse,
+from skimage.metrics import normalized_root_mse as compare_nrmse
 from skimage.metrics import peak_signal_noise_ratio as compare_psnr
 from skimage.metrics import structural_similarity as compare_ssim
 import skimage.metrics
